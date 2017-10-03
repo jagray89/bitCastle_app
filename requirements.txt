@@ -1,7 +1,0 @@
-Flask
-Flask-Session
-Flask-JSGlue
-Flask-SQLAlchemy
-SQLAlchemy
-passlib[bcrypt]
-cs50
